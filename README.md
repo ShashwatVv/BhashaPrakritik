@@ -1,2 +1,6 @@
 # BhashaPrakritik
-When a turtle explores NLP
+- When a turtle explores NLP
+## Author
+- Shashwat Vaibhav
+
+## NLP trails
